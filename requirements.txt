@@ -1,0 +1,5 @@
+openai
+pdfplumber
+pdf2image
+pillow
+pandas
